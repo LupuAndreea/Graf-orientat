@@ -1,0 +1,5 @@
+﻿  Tema2-Graf_orientat.cpp
+d:\poo\tema2-graf_orientat\tema2-graf_orientat\tema2-graf_orientat.cpp(238): warning C4584: 'Graf_turneu': base-class 'Graf_complet' is already a base-class of 'Graf_antisimetric'
+  d:\poo\tema2-graf_orientat\tema2-graf_orientat\tema2-graf_orientat.cpp(101): note: see declaration of 'Graf_complet'
+  d:\poo\tema2-graf_orientat\tema2-graf_orientat\tema2-graf_orientat.cpp(204): note: see declaration of 'Graf_antisimetric'
+  Tema2-Graf_orientat.vcxproj -> D:\POO\Tema2-Graf_orientat\Debug\Tema2-Graf_orientat.exe
